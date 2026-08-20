@@ -1,6 +1,6 @@
 # Retransmission Daemon Docker
 
-This repository provides an automatically updated, lightweight Docker image for Retransmission (a fork of the Transmission BitTorrent client).
+This repository provides an automatically updated, lightweight Docker image for [Retransmission](https://github.com/retransmission/retransmission) (a fork of the Transmission BitTorrent client).
 
 ## 🏷 Supported Tags
 
